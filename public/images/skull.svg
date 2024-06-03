@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="c">
+    <g id="d">
+      <g id="e">
+        <g id="f">
+          <path class="cls-1" d="M14,43h-7c-3.3,0-6-2.7-6-6v-16C1,9.9,9.9,1,21,1h6c11,0,20,8.9,20,20v16c0,3.3-2.7,6-6,6h-7"/>
+          <path class="cls-1" d="M39,44v15c0,2.2-1.8,4-4,4H13c-2.2,0-4-1.8-4-4v-15"/>
+          <line class="cls-1" x1="14" y1="55" x2="34" y2="55"/>
+          <line class="cls-1" x1="14" y1="49" x2="34" y2="49"/>
+          <path class="cls-2" d="M11,21c-2.2,0-4,1.8-4,4v4h11c1.6,0,3-1.4,3-3v-2c0-1.6-1.4-3-3-3h-7Z"/>
+          <path class="cls-2" d="M41,25c0-2.2-1.8-4-4-4h-7c-1.6,0-3,1.4-3,3v2c0,1.6,1.4,3,3,3h11v-4Z"/>
+          <line class="cls-1" x1="22" y1="32" x2="22" y2="40"/>
+          <line class="cls-1" x1="26" y1="32" x2="26" y2="40"/>
+          <line class="cls-1" x1="18" y1="49" x2="18" y2="55"/>
+          <line class="cls-1" x1="22" y1="49" x2="22" y2="55"/>
+          <line class="cls-1" x1="26" y1="49" x2="26" y2="55"/>
+          <line class="cls-1" x1="30" y1="49" x2="30" y2="55"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
